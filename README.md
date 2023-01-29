@@ -3,11 +3,11 @@
 
 This is a simple React app that displays a directory of robots. The app allows users to view a randomly generated set of robot cards and search for robots by name using a search box.
 
-#Features
+# Features
 View a randomly generated set of robot cards
 Search for robots by name using a search box
 
-#Technologies Used
+### Technologies Used
 React.js
 CSS
 HTML
