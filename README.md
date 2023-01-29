@@ -1,7 +1,7 @@
 # RoboFriends
 
 
-This is a simple React app that displays a directory of robots. The app allows users to view a randomly generated set of robot cards and search for robots by name using a search box.
+This is a simple React app that displays a robots. The app allows users to view a randomly generated set of robot cards and search for robots by name using a search box.
 
 ### Features
 View a randomly generated set of robot cards
