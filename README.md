@@ -3,14 +3,15 @@
 
 This is a simple React app that displays a directory of robots. The app allows users to view a randomly generated set of robot cards and search for robots by name using a search box.
 
-###Features
+#Features
 View a randomly generated set of robot cards
 Search for robots by name using a search box
-###Technologies Used
+
+#Technologies Used
 React.js
 CSS
 HTML
-###Getting Started
+#Getting Started
 To run the app locally, follow these steps:
 
 1.Clone the repository to your local machine
@@ -27,15 +28,15 @@ npm start
 
 The app will now be running on http://localhost:3000
 
-###Deployment
+#Deployment
 The app is ready to be deployed to a web server or hosting service of your choice. You can use npm package like gh-pages to deploy on github pages.
 
-###Screenshots
+#Screenshots
 screenshots
 
-###Contributing
+#Contributing
 To contribute to the project, please create a pull request. I will review and merge the changes as appropriate.
 
-###License
+#License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
