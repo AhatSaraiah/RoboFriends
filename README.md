@@ -1,40 +1,41 @@
 # RoboFriends
 
 
-In the project directory, you can run:
+This is a simple React app that displays a directory of robots. The app allows users to view a randomly generated set of robot cards and search for robots by name using a search box.
 
-### `npm start`
+###Features
+View a randomly generated set of robot cards
+Search for robots by name using a search box
+###Technologies Used
+React.js
+CSS
+HTML
+###Getting Started
+To run the app locally, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1.Clone the repository to your local machine
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+git clone https://github.com/AhatSaraiah/RoboFriends.git
 
-### `npm test`
+2.Install the necessary dependencies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+npm install
 
-### `npm run build`
+3.Start the development server
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+npm start
 
+The app will now be running on http://localhost:3000
 
+###Deployment
+The app is ready to be deployed to a web server or hosting service of your choice. You can use npm package like gh-pages to deploy on github pages.
 
-### Making a Progressive Web App
+###Screenshots
+screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+###Contributing
+To contribute to the project, please create a pull request. I will review and merge the changes as appropriate.
 
-### Advanced Configuration
+###License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
