@@ -8,9 +8,9 @@ View a randomly generated set of robot cards
 Search for robots by name using a search box
 
 ### Technologies Used
-React.js
-CSS
-HTML
+- React.js
+- CSS
+- HTML
 ### Getting Started
 To run the app locally, follow these steps:
 
